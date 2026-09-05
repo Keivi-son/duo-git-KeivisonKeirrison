@@ -1,0 +1,2 @@
+Eu keivison gostei demais de usar o git para organizar o código e cada uma de suas versões, um pouco complicado de aprender porem é muito importante, ainda mais quando os projetos são grandes.
+Eu keirrison tive um pouco de dificuldade, meu irmão me ajudou a entender a função do git e a do GitHub, depois dei uma pesquisada melhor e dai foi mais tranquilo de fazer a atividade.
